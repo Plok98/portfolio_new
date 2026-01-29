@@ -13,13 +13,13 @@ author: palferink
 paginate: true
 modal-id: vet-kicken-decor-en-animatie
 img: vet_kicken/group_photo1.png
-thumbnail: vet_kicken/group_photo.png
+thumbnail: vet_kicken/group_photo1.png
 alt: Vet Kicken - decor en animatie
 project-date: 2018-06-23
 client: Start-up
 ---
 
-<img src="{{ site.baseurl }}/img/portfolio/vet_kicken/group_photo.png" alt="Groepsfoto Vet Kicken livestream">
+<img src="{{ site.baseurl }}/img/portfolio/vet_kicken/group_photo1.png" alt="Groepsfoto Vet Kicken livestream">
 
 ## Introductie
 
