@@ -1,0 +1,79 @@
+---
+date: 2019-10-19
+layout: default
+title: 3D animation in progress
+subtitle: "Een kijkje achter de schermen van mijn 3D-werk"
+description: "Tijdens dit project werkte ik aan diverse 3D-animatie-experimenten, waaronder omgevingsdesign en karakteranimatie. Dit bericht geeft een blik op de tussenresultaten."
+category: 3D
+tags:
+  - 3D
+  - Animation
+  - grafisch
+author: palferink
+paginate: true
+modal-id: 3D-animation-in-progress
+img: 3d/followTheBeat.png
+thumbnail: 3d/followTheBeat.png
+alt: 3D animation in progress
+project-date: 2019-10-19
+client: Start-up
+---
+
+<img src="{{ site.baseurl }}/img/portfolio/3d/followTheBeat.png" alt="Still uit de animatie Follow The Beat">
+
+## Introductie
+
+Tijdens mijn minor in Finland aan Metropolia heb ik mij gefocust op de ontwerpmogelijkheden in 3D.
+Het traject begon met de basis waarbij je zelf mocht uitvinden waar jouw kracht ligt bij het ontwerpen in 3D.
+
+Stappen in het 3D-ontwerpproces:
+
+- Ontwikkelen van een idee of concept.
+- Leren werken met 3D-software en de basisbewerkingen.
+- Modelleren van vormen en structuren.
+- Toevoegen van materialen, texturen en belichting.
+- Renderen en visualiseren van het eindresultaat.
+- Reflecteren en optimaliseren op basis van feedback.
+
+Na het uitvogelen van deze stappen in een 3D proces werd er afgesloten met een project waarbij ik in een groep van 8 andere studenten heb gewerkt aan een game die het gevoel van ritme bij de gebruiker moet helpen bij het spelen van een game.
+
+## Doel
+
+Het project had drie centrale doelen:
+
+- **Omgevingsontwerp** – een digitale stad opbouwen als speelveld.
+- **Karakteranimatie** – vijanden en personages een eigen visuele stijl geven.
+- **Sfeer & storytelling** – beelden koppelen aan het ritme van muziek.
+
+## Proces
+
+Ik heb zowel Maya als Blender uitgeprobeerd tijdens de minor.
+Maar tijdens het eindproject lag de focus op Maya en verschillende rendertechnieken om:
+
+- **Follow the Beat** creëren, een omgeving vol futuristische details.
+- **Bob Enemy** te testen met textuur- en animatievarianten.
+- Een **animatiestill** te maken die de muzikale sfeer van _Follow The Beat_ weergeeft.
+
+## Resultaat
+
+De resultaten zijn nog in ontwikkeling, maar laten zien hoe **experiment en iteratie** leiden tot een steeds rijkere visuele wereld.
+
+<div class="image-grid">
+  <figure>
+    <object data="{{ site.baseurl }}/img/portfolio/3d/3d_metropolia.mp4" type="application/pdf" width="100%" height="400px">
+      <p>Bekijk hier de <a href="{{ site.baseurl }}/img/portfolio/3d/3d_metropolia.mp4">3D ontwerpen</a>.</p>
+    </object>
+    <figcaption>Verschillende flat en 3D ontwerpen tijdens mijn minor aan Metropolia in Finland.</figcaption>
+  </figure>
+  <figure>
+    <video width="500" controls>
+      <source src="{{ site.baseurl }}/img/portfolio/3d/bob_enemy_texture.mp4" type="video/mp4">
+      Je browser ondersteunt geen video.
+    </video>
+    <figcaption>De vijand ‘Bob Enemy’: experiment met texturen en beweging.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/img/portfolio/3d/followTheBeat.png" alt="Still Follow The Beat animatie">
+    <figcaption>Een still uit de animatie *Follow The Beat*, waarin ritme en beeld samenvallen.</figcaption>
+  </figure>
+</div>
