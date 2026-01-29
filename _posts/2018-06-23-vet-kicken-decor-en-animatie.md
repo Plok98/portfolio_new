@@ -12,7 +12,7 @@ tags:
 author: palferink
 paginate: true
 modal-id: vet-kicken-decor-en-animatie
-img: vet_kicken/group_photo.png
+img: vet_kicken/group_photo1.png
 thumbnail: vet_kicken/group_photo.png
 alt: Vet Kicken - decor en animatie
 project-date: 2018-06-23
